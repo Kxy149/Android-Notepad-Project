@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_window_background">#FFFDF9</color>
+    <color name="app_window_background_dark">#1C1C1E</color>
+    <color name="list_item_background">#FFFFFFFF</color>
+    <color name="list_item_stroke">#1F000000</color>
+    <color name="list_item_pressed">#FFE0B2</color>
+    <color name="timestamp_text">#FF7043</color>
+    <color name="timestamp_text_dark">#FFB296</color>
+    <color name="editor_background_light">#FFFFFCF7</color>
+    <color name="editor_background_dark">#2B2B2E</color>
+    <color name="editor_border">#33FFFFFF</color>
+    <color name="editor_text_light">#1F1F1F</color>
+    <color name="editor_text_dark">#F5F5F5</color>
+</resources>
+
